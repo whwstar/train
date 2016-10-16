@@ -1,11 +1,11 @@
 #
-# MAINTAINER        Carson,C.J.Zeong <zcy@nicescale.com>
-# DOCKER-VERSION    1.6.2
+# MAINTAINER        whwstar <whwstar@yeah.net>
+# DOCKER-VERSION    1.12.1
 #
 # Dockerizing php-fpm: Dockerfile for building php-fpm images
 #
-FROM       csphere/centos:7.1
-MAINTAINER Carson,C.J.Zeong <zcy@nicescale.com>
+FROM       4paradigm/centos7.1
+MAINTAINER whwstar <whwstar@yeah.net>
 
 # Set environment variable
 ENV	APP_DIR /app
