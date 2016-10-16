@@ -1,11 +1,11 @@
 #
-# MAINTAINER        Carson,C.J.Zeong <zcy@nicescale.com>
-# DOCKER-VERSION    1.6.2
+# MAINTAINER        whwstar <whwstar@yeah.net>
+# DOCKER-VERSION    1.12.1
 #
 # Dockerizing CentOS7: Dockerfile for building CentOS images
 #
 FROM       centos:centos7.1.1503
-MAINTAINER Carson,C.J.Zeong <zcy@nicescale.com>
+MAINTAINER whwstar <whwstar@yeah.net>
 
 ENV TZ "Asia/Shanghai"
 ENV TERM xterm
